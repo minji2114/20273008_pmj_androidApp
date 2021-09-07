@@ -6,7 +6,7 @@
   - 앱기획
 
 <img width="" height="" src="./png/dog.jpg"></img>
-
+<img width="" height="" src="./png/capture.png"></img>
 
 
 

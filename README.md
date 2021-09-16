@@ -7,3 +7,5 @@
 <img width="" height="" src="./png/capture.png"></img>
 
 ## 3주차 과제
+<img width="" height="" src="./png/Naver.png"></img>
+<img width="" height="" src="./png/Call.png"></img>
